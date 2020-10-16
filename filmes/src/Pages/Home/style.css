@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+.textArea > h2 {
+    text-align: left;
+    margin-bottom: 1em;
+}
+
+.textArea{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    justify-content: center;
+    text-align: justify;
+    margin: 5em;
+}
+
+.filmes-categoria{
+    display: flex;
+    justify-content: space-between;
+    margin: 5em;
+}
+
+.filmes-categoria img {
+    height: 8em;
+}
+
+.filmes-categoria h2 {
+    margin: 0.5em 0;
+    text-align: left;
+}
+
+.filmes{
+    text-align: justify;
+    margin-right: 5em;
+}
+
+.categoria{
+    text-align: justify;
+}

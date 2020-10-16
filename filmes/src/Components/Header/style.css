@@ -1,0 +1,43 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.header {
+    background-color: #9BD2DE;
+    padding: 2em 5em;
+    text-decoration: none;
+}
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.eter{
+    margin-left: 10em;
+}
+
+nav > img {
+    position: absolute;
+}
+
+.header-props{
+    text-align: left;
+    margin-left: 100px;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  width: 300px;
+}
+
+.menu .link {
+  text-decoration: none;
+  color: #4b2142;
+  font-weight: bold;
+}

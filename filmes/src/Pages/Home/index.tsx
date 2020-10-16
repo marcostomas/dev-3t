@@ -5,17 +5,21 @@ import Footer from '../../Components/Footer/index';
 import cinema from '../../assets/cinema.png';
 import dramaComedia from '../../assets/theater.png';
 
-import 'styles.css';
+import './style.css';
 
 export default function Home(){
     return(
         <div className="homePage">
-            <Header />
+            <Header description="Conheça nossa coletânea">
+                <p>Olá, tudo bem?</p>
+            </Header>
             
             <main>
                 <h1>Monte sua coletânea de filmes...</h1>
                 <div className="textArea">
                     <h2>Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor</h2>
+
+                    <br/>
 
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt 
@@ -31,6 +35,8 @@ export default function Home(){
                     <div className="filmes">
                         <img src={cinema} alt="Rolo de filme"/>
 
+                        <h2>Filmes</h2>
+
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
                             incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
@@ -40,6 +46,8 @@ export default function Home(){
                     
                     <div className="categoria">
                         <img src={dramaComedia} alt="Rostos de drama e comédia"/>
+
+                        <h2>Categoria</h2>
 
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
