@@ -1,0 +1,25 @@
+.footer{
+    background-color: #F6511D; 
+    padding: 8vh auto;
+}
+
+.content{
+    width: 100%;
+    display: inline-grid;
+    grid-template-columns: repeat(2, 50%);
+    margin: 5vh 0;
+}
+
+.logo{
+    width: 100%;
+}
+
+.logo img{
+    display: flex;
+    align-items: flex-end;
+}
+
+.info{
+    width: 100%;
+    text-align: justify;
+}
