@@ -3,10 +3,12 @@ import React from 'react';
 import Header from '../../Componentes/Header';
 import Footer from '../../Componentes/Footer';
 
-export default function Home(){
+import './style.css'
+
+export default function Dashboard(){
     return(
         <div>
-            <Header />
+            <Header title="Registre seus Eventos"/>
             <h1>Dashboard Page.</h1>
             <Footer />
         </div>

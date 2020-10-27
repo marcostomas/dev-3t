@@ -2,5 +2,44 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 100%;
+    flex-direction: column;
+}
+.banner{
+    display: flex;
+    align-content: center;
+    width: 100%;
+}
+
+.text-area{
+    margin: 2em;
+}
+
+.text-area h1{
+    display: flex;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    font-size: 30px;
+    margin: 0 2vh
+}
+
+.description::before{
+    
+}
+.description {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.description p{
+    text-align: justify;
+}
+
+.description h3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
 }

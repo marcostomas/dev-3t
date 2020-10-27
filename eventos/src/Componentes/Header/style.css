@@ -12,6 +12,12 @@ nav{
 
     display: flex;
     justify-content: right;
+    align-content: center;
+}
+
+nav h3{
+    display: flex;
+    align-items: center;
 }
 
 .menu{
