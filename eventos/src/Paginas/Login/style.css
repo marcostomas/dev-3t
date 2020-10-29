@@ -1,0 +1,22 @@
+.content-login{
+    display: grid;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+
+
+.img2020{
+    margin: 0;
+    display: grid;
+    grid-area: 2 / 1 / 6 / 3;
+}
+
+
+.centro{
+    display: grid;
+    grid-area: 2 / 3 / 6 / 6;
+}
+
+.centro input {
+    margin-top: 2vh;
+}
