@@ -1,0 +1,11 @@
+C:\Users\44036901818\desktop\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.exe
+C:\Users\44036901818\desktop\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.deps.json
+C:\Users\44036901818\desktop\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.runtimeconfig.json
+C:\Users\44036901818\desktop\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.runtimeconfig.dev.json
+C:\Users\44036901818\desktop\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.dll
+C:\Users\44036901818\desktop\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.pdb
+C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.csprojAssemblyReference.cache
+C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.AssemblyInfoInputs.cache
+C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.AssemblyInfo.cs
+C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.dll
+C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.pdb
