@@ -1,21 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\44036901818\\desktop\\testeDateTime\\testeDateTime.csproj": {}
+    "C:\\Users\\marcos\\Desktop\\dev-3t\\testeDateTime\\testeDateTime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\44036901818\\desktop\\testeDateTime\\testeDateTime.csproj": {
+    "C:\\Users\\marcos\\Desktop\\dev-3t\\testeDateTime\\testeDateTime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\44036901818\\desktop\\testeDateTime\\testeDateTime.csproj",
+        "projectUniqueName": "C:\\Users\\marcos\\Desktop\\dev-3t\\testeDateTime\\testeDateTime.csproj",
         "projectName": "testeDateTime",
-        "projectPath": "C:\\Users\\44036901818\\desktop\\testeDateTime\\testeDateTime.csproj",
-        "packagesPath": "C:\\Users\\44036901818\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\44036901818\\desktop\\testeDateTime\\obj\\",
+        "projectPath": "C:\\Users\\marcos\\Desktop\\dev-3t\\testeDateTime\\testeDateTime.csproj",
+        "packagesPath": "C:\\Users\\marcos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marcos\\Desktop\\dev-3t\\testeDateTime\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "C:\\Users\\44036901818\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\marcos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -9,3 +9,16 @@ C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime
 C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.AssemblyInfo.cs
 C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.dll
 C:\Users\44036901818\desktop\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.pdb
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.exe
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.deps.json
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.runtimeconfig.json
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.runtimeconfig.dev.json
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.dll
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\bin\Debug\netcoreapp3.1\testeDateTime.pdb
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.csprojAssemblyReference.cache
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.AssemblyInfoInputs.cache
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.AssemblyInfo.cs
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.csproj.CoreCompileInputs.cache
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.dll
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.pdb
+C:\Users\marcos\Desktop\dev-3t\testeDateTime\obj\Debug\netcoreapp3.1\testeDateTime.genruntimeconfig.cache
